@@ -244,6 +244,7 @@ Price and Volume process with Technology Analysis Indices
 ## Data Sources
 
 #### Traditional Markets
+- [DataSinking](https://datasink.ing) - Full-text financial reports (annual/semi-annual/quarterly) from US/China/Japan/Korea/Taiwan/UK as clean Markdown, queryable by FMP-style symbol and section, with MCP server.
 
 - 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
